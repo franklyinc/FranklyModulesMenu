@@ -6,7 +6,7 @@ class MenuDemo extends Component {
 	  
     return (
       <div>
-	      {this.props}
+	      {JSON.stringify(this.props.menu)}
       </div>
     );
 	  
