@@ -6,7 +6,7 @@ class MenuDemo extends Component {
 	  
     return (
       <div>
-	      {JSON.stringify(this.props.menu)}
+	      {JSON.stringify(this.props.menu)} (BRANCH)
       </div>
     );
 	  
