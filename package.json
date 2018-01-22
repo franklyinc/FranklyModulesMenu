@@ -2,7 +2,7 @@
   "thumbnail": "https://wnow-modules.s3.amazonaws.com/icon_stroke_news_articlelist.svg",
   "tag": "wnow",
   "affiliates":["kotv"],
-  "isHeaderComponent": true, 
+  "isHeaderComponent": false, 
   "propTypes": {
     "text": "PropTypes.string"
   },
